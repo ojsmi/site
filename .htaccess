@@ -1,0 +1,9 @@
+RewriteEngine On
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options FollowSymLinks
+Options SymLinksIfOwnerMatch
+RewriteBase /
+
+RewriteRule ^portfolio[/]?$ http://ollyjsmith.com [R=301,L]
+
+#RewriteRule ^([^/]+)[/]?$ http://ollyjsmith.com/#/$1/ [NE,L]
