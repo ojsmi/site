@@ -9,6 +9,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<meta name="description" content="Oliver Smith is an Artist working with code and emergent technologies. He runs workshops in the London area is a lecturer on Graphic Design: New Media at UCA">
+
+		<meta name="keywords" content="london, uk, design, code, technology, open source, audio, installation, generative, digital, html, javascript, html5, processing, arduino">
 		
 		<!--[if lt IE 9]>
 			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
