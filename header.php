@@ -10,7 +10,7 @@
 		
 		<link rel="stylesheet" type="text/css" href="style.css">
 
-		<meta name="description" content="Oliver Smith is an Artist working with code and emergent technologies. He runs workshops in the London area and is a lecturer on Graphic Design: New Media at UCA">
+		<meta name="description" content="Oliver Smith is an artist working with code and emergent technologies. He runs workshops in the London area and is a lecturer on Graphic Design: New Media at UCA">
 
 		<meta name="keywords" content="london, uk, design, code, technology, open source, audio, installation, generative, digital, html, javascript, html5, processing, arduino">
 		
@@ -35,6 +35,7 @@
 						<li><a href="mailto:contact@ollyjsmith.com">contact@ollyjsmith.com</a></li>
 						<li>+44 (0) 7596 090 678</li>
 						<li><h2><a href="#about">About</a></h2></li>
+						<li><h2><a href="http://blog.ollyjsmith.com">Blog</a></h2></li>
 						<!--<li><a href="http://log.theyaremany.com">Many</a></li>
 						<li><a href="http://twitter.com/ollyjsmith">@ollyjsmith</a></li>-->
 					</ul>
